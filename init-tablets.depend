@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1328262848 source:/home/marisa/work/init-tablets/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<libusb-1.0/libusb.h>
+
+1328272336 source:/home/zidane/Projects/init-tablets/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<libusb-1.0/libusb.h>
+
